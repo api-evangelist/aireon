@@ -1,0 +1,66 @@
+{
+    "name": "Aireon",
+    "description": "Aireon's space-based ADS-B will make global air traffic surveillance a powerful reality. In 2018 Aireon will extend air traffic visibility across the planet",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28177-aireon-com.jpg",
+    "tags": [
+        "air traffic",
+        "api provider",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aireon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aireon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28177-aireon-com.jpg",
+            "humanURL": "https:\/\/aireon.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aireon-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aireon-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/aireon.com\/1090-global\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aireon"
+        },
+        {
+            "type": "Email",
+            "url": "info@aireon.com"
+        },
+        {
+            "type": "Email",
+            "url": "public.relations@aireon.com"
+        },
+        {
+            "type": "Email",
+            "url": "publicrelations@aireon.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AireonLLC"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/aireon.com"
+        }
+    ]
+}
